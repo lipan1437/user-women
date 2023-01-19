@@ -1,0 +1,164 @@
+{
+  "womensProducts": [
+  {
+    "price": "949",
+    "Brand": "Bewakoof",
+    "image": "https://images.bewakoof.com/t640/cream-men-s-half-sleeves-shirt-348535-1655834980-1.jpg",
+    "category": "shirt",
+    "name": "Men's Cream Shirt",
+    "id": 1
+  },
+  {
+    "name": "Men's Grey Striped Slim Fit Shirt",
+    "price": "799",
+    "Brand": "ACT SMART",
+    "image": "https://images.bewakoof.com/t640/men-s-grey-striped-slim-fit-shirt-567468-1672748690-1.jpg",
+    "category": "shirt",
+    "id": 2
+  },
+  {
+    "name": "Men's Blue Printed Slim Fit Shirt",
+    "price": "899",
+    "Brand": "Bushirt",
+    "image": "https://images.bewakoof.com/t640/men-s-blue-printed-slim-fit-shirt-568057-1673350736-1.jpg",
+    "category": "shirt",
+    "id": 3
+  },
+  {
+    "name": "Men's White Striped Slim Fit Shirt",
+    "price": "1120",
+    "Brand": "FLY69",
+    "image": "https://images.bewakoof.com/t640/men-s-brown-striped-slim-fit-shirt6-567439-1672738754-1.JPG",
+    "category": "shirt",
+    "id": 4
+  },
+  {
+    "name": "Men's Grey Slim Fit Shirt",
+    "price": "1499",
+    "Brand": "Snitch",
+    "image": "https://images.bewakoof.com/t640/men-s-grey-slim-fit-shirt-534454-1659955009-1.jpg",
+    "category": "shirt",
+    "id": 5
+  },
+  {
+    "name": "Men's Black Deathnote Ryuk Graphic Printed Oversized T-shirt",
+    "price": "499",
+    "Brand": "Bewakoof",
+    "image": "https://images.bewakoof.com/t640/men-s-black-deathnote-ryuk-oversized-t-shirt-568923-1673597452-1.jpg",
+    "category": "t-shirt",
+    "id": 6
+  },
+  {
+    "name": "Men's White Web Slinger Graphic Printed Plus Size T-shirt",
+    "price": "599",
+    "Brand": "Bewakoof",
+    "image": "https://images.bewakoof.com/t640/men-s-whiteweb-slinger-plus-size-round-neck-t-shirt-568953-1673611971-1.jpg",
+    "category": "t-shirt",
+    "id": 7
+  },
+  {
+    "name": "Men's Black Goosebumps Graphic Printed Oversized T-shirt",
+    "price": "799",
+    "Brand": "Bewakoof",
+    "image": "https://images.bewakoof.com/t640/goosebumps-oversized-fit-full-sleeve-t-shirt-564612-1672061287-1.jpg",
+    "category": "t-shirt",
+    "id": 8
+  },
+  {
+    "name": "Men's Blue Goose Bumps Graphic Printed T-shirt",
+    "price": "649",
+    "Brand": "Bewakoof",
+    "image": "https://images.bewakoof.com/t640/men-goose-bumps-printed-t-shirt-552791-1668496511-1.jpg",
+    "category": "t-shirt",
+    "id": 9
+  },
+  {
+    "name": "Men's Yellow & Black Raglan T-shirt",
+    "price": "699",
+    "Brand": "Bewakoof",
+    "image": "https://images.bewakoof.com/t640/men-s-yellow-black-t-shirt-485116-1672236225-1.jpg",
+    "category": "t-shirt",
+    "id": 10
+  },
+  {
+    "name": "Men's Blue Washed Skinny Fit Jeans",
+    "price": "1609",
+    "Brand": "Blue Buddha",
+    "image": "https://images.bewakoof.com/t640/blue-buddha-men-s-blue-washed-skinny-fit-jeans-568905-1673515482-1.jpg",
+    "category": "jeans",
+    "id": 11
+  },
+  {
+    "name": "Men's Blue Washed Slim Fit Jeans",
+    "price": "1399",
+    "Brand": "Jeans Cafe",
+    "image": "https://images.bewakoof.com/t640/men-s-blue-washed-slim-fit-jeans-567492-1672831881-1.jpg",
+    "category": "jeans",
+    "id": 12
+  },
+  {
+    "name": "Men's Brown Slim Fit Jeans",
+    "price": "1399",
+    "Brand": "Jeans Cafe",
+    "image": "https://images.bewakoof.com/t640/men-s-brown-slim-fit-jeans-567494-1672831850-1.jpg",
+    "category": "jeans",
+    "id": 13
+  },
+  {
+    "name": "Men's Blue Washed Slim Fit Jeans",
+    "price": "1819",
+    "Brand": "Blue Buddha",
+    "image": "https://images.bewakoof.com/t640/blue-buddha-men-s-blue-washed-slim-fit-jeans-568895-1673515671-1.jpg",
+    "category": "jeans",
+    "id": 14
+  },
+  {
+    "name": "Men's White Skinny Fit Jeans",
+    "price": "1699",
+    "Brand": "Snitch",
+    "image": "https://images.bewakoof.com/t640/men-s-white-skinny-fit-jeans-552820-1667540322-1.jpg",
+    "category": "jeans",
+    "id": 15
+  },
+  {
+    "name": "White Green Chikankari Embroidered Woven Design Straight Kurta",
+    "price": "1791",
+    "Brand": "See Designs",
+    "image": "https://images.bewakoof.com/t640/see-designs-white-green-chikankari-embroidered-woven-design-straight-kurta-421773-1655940336-1.jpg",
+    "category": "kurta",
+    "id": 16
+  },
+  {
+    "name": "Lime Green Green Chikankari Embroidered Woven Design Straight Kurta",
+    "price": "1791",
+    "Brand": "See Designs",
+    "image": "https://images.bewakoof.com/t640/see-designs-lime-green-green-chikankari-embroidered-woven-design-straight-kurta-421792-1655940341-1.jpg",
+    "category": "kurta",
+    "id": 17
+  },
+  {
+    "name": "Men's Blue Relaxed Fit Knit Kurta",
+    "price": "362",
+    "Brand": "Bewakoof",
+    "image": "https://images.bewakoof.com/t640/men-s-solid-knit-kurta-321884-1655816343-6.jpg",
+    "category": "kurta",
+    "id": 18
+  },
+  {
+    "name": "Men's Crystal Teal Relaxed Fit Long Kurta",
+    "price": "599",
+    "Brand": "Bewakoof",
+    "image": "https://images.bewakoof.com/t640/men-s-solid-crystal-teal-long-kurta-502496-1663931131-1.jpg",
+    "category": "kurta",
+    "id": 19
+  },
+  {
+    "name": "Men's Black Plus Size Relaxed Fit Festive Short Kurta",
+    "price": "764",
+    "Brand": "Bewakoof",
+    "image": "https://images.bewakoof.com/t640/men-s-black-plus-size-mandarin-neck-festive-short-kurta-408277-1665064951-1.jpg",
+    "category": "kurta",
+    "id": 20
+  }
+]
+}
